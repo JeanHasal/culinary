@@ -66,24 +66,43 @@ kilogram   =   kg
 COMMON EQUIVALENTS
 
 dash == 1/8 teaspoon
+
 3 teaspoon == 1 tablespoon 
+
 2 tablespoon == 1 fl.oz.
+
 4 tablespoon == 1/4 cup (2fl.oz)
+
 5 1/3 tablespoon == 1/3 cup (2 2/3 ft.oz)
+
  16 tablespoon ==1 cup(8fl.oz)
+ 
 2cups == 1 pint(16fl.oz)
+
 2 pint == 1 quart (32fl.oz)
+
 4 quarts == 1 gallon(128 fl.oz)
+
 2 gallons == 1 peck
+
 4 pecks == 1 bushel
+
 1 gram == 0.0035 ounce 1/30 oz
+
 1 ounce == 28.35 grams 
+
 454 grams == 1 pound
+
 2.2 ponund == 1 kilograms
+
 1 teaspoon == 5 millilitera
+
 1 tablespoon == 15 milliliters
+
 1 fluid ounce == 28.35 milliliters
+
 1 cup == 0.24 liters
+
 1 gallon == 3.80
 
 
