@@ -39,16 +39,27 @@ METRIC SYSTEM:   most common system used in the world (developed in france) uses
 COMMON ABBREVATIONS 
 
 teaspoon   =   tsp.
+
 tablespoon   =   tbsp.
+
 cup   =   c
+
 pint   =  pt.
+
 quart   =   qt
+
 gram   =   g
+
 milliliter   =   ml
+
 liter   =   lt
+
 ounce   =   oz.
+
 fluid ounce   =   fl.oz
+
 pound   =   lb
+
 kilogram   =   kg
 
 
